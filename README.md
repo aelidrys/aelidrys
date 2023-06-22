@@ -3,8 +3,8 @@
 - ##  I’m currently learning programing
 
 |language    |level   |
-|  :-:       |  :-:   |
-|***C***     | middle |
+|  :-       |  :-   |
+|***C***     | intermediate |
 |***C++***   |beginner|
 |***python***|beginner|
 |***java***  |beginner|
