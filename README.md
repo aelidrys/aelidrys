@@ -7,8 +7,6 @@
 |***C***     | intermediate |
 |***C++***   |beginner|
 |***python***|beginner|
-|***java***  |beginner|
-|***Ruby***  |beginner|
 
 
 ### MY LEETCODE ACOUNT
