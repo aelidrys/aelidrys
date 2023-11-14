@@ -5,7 +5,7 @@
 |language    |level   |
 |  :-       |  :-   |
 |***C***     | intermediate |
-|***C++***   |beginner|
+|***C++***   |intermediate|
 |***python***|beginner|
 
 
