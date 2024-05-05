@@ -9,4 +9,4 @@
 |***python***|
 
 
-[![img](https://leetcard.jacoblin.cool/ayoubedark?theme=light&font=Play)](https://leetcode.com/ayoubedark/)
+[![img](https://leetcard.jacoblin.cool/ayoubedark?theme=dark&font=Changa)]
