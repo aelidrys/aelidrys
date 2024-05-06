@@ -3,11 +3,11 @@
 - ##  I’m currently learning programing
 
 ### lanuages
-![c](https://img.icons8.com/?size=48&id=shQTXiDQiQVR&format=png)
+
 
 |language    |
 |  :-:      |
-|***C***     | 
+|![c](https://img.icons8.com/?size=48&id=shQTXiDQiQVR&format=png)     | 
 |***C++***   |
 |***python***|
 
