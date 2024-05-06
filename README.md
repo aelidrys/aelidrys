@@ -3,7 +3,7 @@
 - ##  I’m currently learning programing
 
 ### lanuages
-![c](https://e7.pngegg.com/pngimages/724/306/png-clipart-c-logo-c-programming-language-icon-letter-c-blue-logo.png)
+![c](https://img.icons8.com/?size=48&id=shQTXiDQiQVR&format=png)
 
 |language    |
 |  :-:      |
