@@ -2,7 +2,7 @@
 - ##  I study in 42 network
 - ##  I’m currently learning programing
 
-### lanuages
+### languages
 
 
 |![c](https://img.icons8.com/?size=48&id=shQTXiDQiQVR&format=png) |![c++](https://img.icons8.com/?size=48&id=40669&format=png)|![py](https://img.icons8.com/?size=48&id=13441&format=png)   |
