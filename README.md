@@ -9,4 +9,4 @@
 |  :-:      | :-:    |   :-: |
 
 
-[![img](https://leetcard.jacoblin.cool/ayelidryssy?theme=dark&font=Changa)]([https://leetcode.com/ayelidryssy/](https://leetcode.com/u/ayelidryssy/))
+[![img](https://leetcard.jacoblin.cool/ayelidryssy?theme=dark&font=Changa)]()
