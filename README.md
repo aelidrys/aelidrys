@@ -1,6 +1,5 @@
 - ## 👋 Hi, I’m *ayoub elidryssy*
-- ##  I study in 42 network
-- ##  I’m currently learning programing
+- ##  I study at  42-School. I also took a course in Machine Learning at <a href='https://www.linkedin.com/feed/update/urn:li:activity:7172364453995302912/' >CS Get-Skilled Academy</a> with Dr <a href='https://www.linkedin.com/in/mostafasaad/'>Mostafa Saad Ibrahim</a> 
 
 ### Languages & Touls
 
