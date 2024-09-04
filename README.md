@@ -7,7 +7,10 @@
 <img src='https://img.icons8.com/?size=48&id=shQTXiDQiQVR&format=png'></i>
 <img src='https://img.icons8.com/?size=48&id=40669&format=png' ></i>
 <img src='https://img.icons8.com/?size=48&id=13441&format=png' ></i>
-<img src='https://img.icons8.com/?size=100&id=zFAYIdFZlGxP&format=png&color=000000' width=60px></i>
+<img src='https://img.icons8.com/?size=55&id=zFAYIdFZlGxP&format=png&color=000000'></i>
+<img src='https://img.icons8.com/?size=60&id=qV-JzWYl9dzP&format=png&color=000000'></i>
+<img src='https://img.icons8.com/?size=50&id=108784&format=png&color=000000'>
+
 
 
 ### LeetCode
