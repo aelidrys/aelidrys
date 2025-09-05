@@ -4,16 +4,19 @@
 ### Languages & Touls
 
 
-<img src='https://img.icons8.com/?size=48&id=shQTXiDQiQVR&format=png'></img>
-<img src='https://img.icons8.com/?size=48&id=40669&format=png' ></img>
-<img src='https://img.icons8.com/?size=48&id=13441&format=png' ></img>
+<img src='https://img.icons8.com/?size=50&id=shQTXiDQiQVR&format=png' Alt="C"></img>
+<img src='https://img.icons8.com/?size=50&id=40669&format=png' alt="C++"></img>
+<img src='https://img.icons8.com/?size=50&id=13441&format=png' alt="Py"></img>
+<img src="https://img.icons8.com/?size=50&id=mQ01rhdaQzyT&format=png&color=000000" alt="Java"></img>
+<img src='https://img.icons8.com/?size=50&id=108784&format=png&color=000000' alt="JS"></img>
 <img src='https://img.icons8.com/?size=50&id=NWoCfYWqHRGY&format=png&color=#5dade2'></img>
+
 <img src='https://img.icons8.com/?size=50&id=IuuVVwsdTi2v&format=png&color=000000'></img>
-<img src='https://img.icons8.com/?size=50&id=108784&format=png&color=000000'></img>
 <img src="https://img.icons8.com/?size=50&id=asWSSTBrDlTW&format=png&color=000000"></img>
+<img width="50" height="50" src="https://spring.io//img/projects/spring-boot.svg"/>
 <img src='https://img.icons8.com/?size=50&id=20909&format=png&color=000000'></img>
 <img src='https://img.icons8.com/?size=50&id=3BTBsJs5myRy&format=png&color=000000'></img>
-<img src='https://img.icons8.com/?size=55&id=zFAYIdFZlGxP&format=png&color=000000'></img>
+<img src='https://img.icons8.com/?size=50&id=zFAYIdFZlGxP&format=png&color=000000'></img>
 
 
 
