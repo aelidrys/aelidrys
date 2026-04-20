@@ -12,11 +12,13 @@
 <img src='https://img.icons8.com/?size=50&id=3BTBsJs5myRy&format=png&color=000000'></img>
 <img src='https://img.icons8.com/?size=50&id=20909&format=png&color=000000'></img>
 
-<img src='https://img.icons8.com/?size=50&id=IuuVVwsdTi2v&format=png&color=000000'></img>
-<img src='https://img.icons8.com/?size=50&id=NWoCfYWqHRGY&format=png&color=#5dade2'></img>
-<img src="https://img.icons8.com/?size=50&id=asWSSTBrDlTW&format=png&color=000000"></img>
-<img width="50" height="50" src="https://spring.io//img/projects/spring-boot.svg"></img>
-<img src='https://img.icons8.com/?size=50&id=zFAYIdFZlGxP&format=png&color=000000'></img>
+<div>
+  <img src='https://img.icons8.com/?size=50&id=IuuVVwsdTi2v&format=png&color=000000'></img>
+  <img src='https://img.icons8.com/?size=50&id=NWoCfYWqHRGY&format=png&color=#5dade2'></img>
+  <img src="https://img.icons8.com/?size=50&id=asWSSTBrDlTW&format=png&color=000000"></img>
+  <img width="50" height="50" src="https://spring.io//img/projects/spring-boot.svg"></img>
+  <img src='https://img.icons8.com/?size=50&id=zFAYIdFZlGxP&format=png&color=000000'></img>
+</div>
 
 
 
