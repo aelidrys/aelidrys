@@ -1,4 +1,4 @@
-- ## 👋 Hi, I’m *ayoub elidryssy*
+- ## 👋 Hi, I’m *ayoub elidryssy* a **Computer science student**
 - ##  I study at  42-School.  I am also taking a course in Machine Learning at <a href='https://www.linkedin.com/feed/update/urn:li:activity:7172364453995302912/' >CS Get-Skilled Academy</a> with Dr. <a href='https://www.linkedin.com/in/mostafasaad/'>Mostafa Saad Ibrahim</a> 
 
 ### Languages & Touls
